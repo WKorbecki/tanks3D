@@ -1,0 +1,178 @@
+Initialize engine version: 5.3.3f1 (910d71450a97)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7900 Series (ID=0x679a)
+    Vendor:   ATI
+    VRAM:     3053 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Nowy folder\_C\_DOC\czolgi\Build\TANKS_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Nowy folder\_C\_DOC\czolgi\Build\TANKS_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Nowy folder\_C\_DOC\czolgi\Build\TANKS_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Nowy folder\_C\_DOC\czolgi\Build\TANKS_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Nowy folder\_C\_DOC\czolgi\Build\TANKS_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Nowy folder\_C\_DOC\czolgi\Build\TANKS_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Nowy folder\_C\_DOC\czolgi\Build\TANKS_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Nowy folder\_C\_DOC\czolgi\Build\TANKS_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.052 seconds
+Platform assembly: F:\Nowy folder\_C\_DOC\czolgi\Build\TANKS_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Nowy folder\_C\_DOC\czolgi\Build\TANKS_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3360x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.513824 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: d10 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.822393 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 467.
+Total: 0.384044 ms (FindLiveObjects: 0.028141 ms CreateObjectMapping: 0.017546 ms MarkObjects: 0.203940 ms  DeleteObjects: 0.133422 ms)
+
+(141.7, 14.9, 109.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 14.9, 109.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 14.9, 109.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 14.8, 109.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 14.7, 109.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 14.7, 109.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 14.6, 109.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 14.4, 109.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 14.2, 109.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 14.0, 109.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.7, 109.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.7, 109.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.8, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(141.7, 13.9, 109.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.558689 ms
+
+Unloading 79 unused Assets to reduce memory usage. Loaded Objects now: 211.
+Total: 1.093863 ms (FindLiveObjects: 0.021188 ms CreateObjectMapping: 0.027810 ms MarkObjects: 0.168184 ms  DeleteObjects: 0.876017 ms)
+
